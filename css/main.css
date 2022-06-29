@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #613F2C;
+}
+
+
+.linha_topo{
+    background-color: #EF8462;
+    margin-top: -3px;
+    padding-top: 3px;
+    height: 92px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -1px;
+    
+}
+
+#logo-figma{
+    justify-content: center;
+    height: 38px;
+    position: absolute;
+    align-items: center;
+}
+
+.logo-figma{
+    align-items: center;
+    position: relative;
+    top: 15px;
+    
+}
+
+.w_d{
+    display: flex;
+    justify-content: center;
+    margin-top: -15px;
+    font-family: "Battambang", cursive;
+    color: white;
+    font-size: 15px;
+    letter-spacing: 0.50rem;
+    line-height: 58px;
+    font-style: normal;
+    position: relative;
+    top: 15px;
+}
+
+.texto_topo{
+    color: #613F2C;
+    font-family: "Bebas Neue";
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 72px;
+    text-align: center; 
+    letter-spacing: 0.75rem;
+    position: relative;
+    top: 45px;
+    
+}
+
+.avatar{
+    height: 378px;
+    width: 378px;
+    left: 494px;
+    top: 47px;
+    margin-bottom: 255px;
+    margin-top: 25px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+
+.titulo_apresentativo{
+    font-family: "Bebas Neue", cursive;
+    color: #613F2C;
+    font-family: Bebas Neue;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0.05em;
+    text-align: left;
+}
+
+p{
+    color: #613F2C;
+    font-family: "Bebas Neue" sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    height: 279px;
+    width: 332px;
+    left: 119px;
+    top: 613px;
+    border-radius: nullpx;
+
+
+
+}
+
+
+.retangle_1{
+    position: absolute;
+    background: #FFDBC0;
+    height: 507px;
+    width: 378px;
+    left: 97px;
+    top: 467px;
+    border-radius: 10px;
+    margin-top: 110px;
+    padding: 34px 23px 82px 23px;
+    
+}
+
+.retangle_2{
+    position: absolute;
+    height: 507px;
+    width: 378px;
+    left: 892px;
+    top: 467px;
+    border-radius: 10px;
+    background: #FFDBC0;
+    margin-top: 110px;
+    padding: 65px 29px 65px 29px;
+
+}
+
+.iec{
+    color: #613F2C;
+    font-family: "Bebas Neue", sans serif;
+    font-size: 37px;
+    font-weight: 900;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin: -5px 40px 117px 40px;
+    
+
+}
+
+.tip{
+    color: #613F2C;
+    font-family: "Bebas Neue", sans serif;
+    font-size: 37px;
+    font-weight: 900;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin: 37px 44px 117px 44px;
+
+}
+
+.htm{
+    color: #613F2C;
+    font-family: "Bebas Neue", sans serif;
+    font-size: 37px;
+    font-weight: 900;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin: 22px 44px 64px 44px;
+}
